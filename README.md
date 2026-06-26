@@ -32,7 +32,7 @@ my_Portfolio/
 3. No installation or dependencies needed
 
 ## 🔗 Live Demo
-https://github.com/sundas348/my-portfolio
+https://sundas348.github.io/my-portfolio/
 
 ## 🔗 GitHub
 https://github.com/sundas348
