@@ -22,7 +22,7 @@ skills, projects, internships, and certifications.
 ## How to View
 
 You can visit my live portfolio here:
-https://your-username.github.io/my-portfolio/
+https://sundas348.github.io/my-portfolio/
 
 ## About Me
 
