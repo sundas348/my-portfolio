@@ -1,56 +1,37 @@
-#  Sundas Bibi — Personal Portfolio Website
+# My Portfolio Website
 
+Hi! I'm Sundas Bibi, a Computer Science student from Pakistan.
+This is my personal portfolio website where I have shared my
+skills, projects, internships, and certifications.
 
-## 📝 Description
-A clean and professional personal portfolio website built with HTML, CSS,
-and JavaScript to showcase my skills, projects, experience, and certifications.
+## What's Inside
 
-## Features
-- Animated hero section with typing effect
-- About Me section with education details
-- Skills section with tech stack
-- Experience / Internship timeline
-- Projects section with filter buttons (All, Java, Python, Web)
-- 30+ Certifications section
-- Contact section with form
-- Smooth scroll animations
-- Fully responsive design for mobile and desktop
-- Back to top button
+- About Me section
+- My Skills
+- Internship Experience
+- Projects I have built
+- My Certifications
+- Achievements & Awards
+- Contact form
 
-## 🛠️ Tech Stack
+## Technologies Used
+
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
 
-## 📁 Folder Structure
-my_Portfolio/
-└── index.html
+## How to View
 
-##  How to Run
-1. Download the file
-2. Open index.html in your browser
-3. No installation or dependencies needed
-
-## 🔗 Live Demo
+You can visit my live portfolio here:
 https://sundas348.github.io/my-portfolio/
 
-## 🔗 GitHub
-https://github.com/sundas348
+## About Me
 
-## 💼 Projects Shown
-- Clinic Website
-- Lumière Image Gallery
-- Calcite Scientific Calculator
-- Weather Prediction App
-- Hospital Management System
-- Blood Management System
-- Course Management System
-- Library Management System
-- And many more...
+I am currently studying BS Computer Science at COMSATS University
+Islamabad. I have done multiple internships in full stack web
+development, AI/ML, WordPress development, and content research.
+I enjoy building projects and learning new things every day.
 
-## 👩‍💻 Author
-Sundas Bibi
-BS Computer Science — COMSATS University Islamabad, Attock Campus
+## Contact
 
-## 📄 License
-This project is open source and available for educational purposes.
+LinkedIn: linkedin.com/in/sundas-b-7249b8280
